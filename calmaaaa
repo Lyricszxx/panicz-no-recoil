@@ -6,8 +6,8 @@ local playerGui = player:WaitForChild("PlayerGui")
 
 local aimAssistEnabled = false
 local espEnabled = false
-local aimSmoothness = 0.2
-local fovRadius = 100
+local aimSmoothness = 0.3
+local fovRadius = 50
 
 -- Criar interface do usuário
 local screenGui = Instance.new("ScreenGui")
